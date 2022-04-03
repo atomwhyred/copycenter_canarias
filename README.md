@@ -1,8 +1,7 @@
-# copycenter_canarias
-Landing page para CopyCenter Canarias
+# atomwhyred_profile
+Landing page adecuada para crear un perfil de usuario
 
-https://copycentercanarias.netlify.app/
+https://atomwhyred-profile.netlify.app/
 
 <p align="center" width="800">
-   <img align="center" width="800" src="https://github.com/atomwhyred/copycenter_canarias/blob/main/CopyCenter%20Canarias_files/preview.png?raw=true />
-   
+   <img align="center" width="800" src="https://github.com/atomwhyred/atomwhyred_profile/blob/main/AtomWhyred%20Profile_files/Capture003-AtomWhyred.png?raw=true" />
